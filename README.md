@@ -30,5 +30,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 ## Unemployment by Country
 ![Unemployment by Country](visuals/unemployment_country.png)
 
-## Correlation Heatmap
-![Correlation Heatmap](visuals/correlation_heatmap.png)
+
